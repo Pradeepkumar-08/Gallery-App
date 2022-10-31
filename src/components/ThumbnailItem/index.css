@@ -1,0 +1,14 @@
+.thumbnail-list-item {
+  list-style-type: none;
+  margin-right: 20px;
+}
+.thumbnail-btn {
+  border: 0px;
+  background-color: transparent;
+}
+.selected {
+  opacity: 1;
+}
+.un-selected {
+  opacity: 0.5;
+}
